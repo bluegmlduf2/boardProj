@@ -12,7 +12,7 @@ var dbconnInfo = {
 	},
 	real:{
 		host     : '1.1.1.1',
-		port: '1111111',
+		port: '11111111',
 		user     : 'cafe24',
 		password : 'cafe24',
 		database : 'cafe24DB',
